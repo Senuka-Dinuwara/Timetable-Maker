@@ -40,11 +40,11 @@ A desktop application for generating conflict-free academic timetables, built wi
 
 ---
 
-## Screenshots
+/* ## Screenshots
 
 > _Add screenshots of the application here._
 
----
+--- */
 
 ## Getting Started
 
